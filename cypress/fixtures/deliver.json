@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Hudson Henrique",
+        "cpf": "00000000051",
+        "email": "hudson@teste.com",
+        "whatsapp": "37999998811",
+        "address": {
+            "postalcode": "35501222",
+            "street": "Rua Marquês de Olinda",
+            "number": "470",
+            "details": "Casa",
+            "district": "Catalão",
+            "city_state": "Divinópolis/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Pedro Henrique",
+        "cpf": "000000000AA",
+        "email": "pedro@cpfinvalido.com",
+        "whatsapp": "37992228811",
+        "address": {
+            "postalcode": "35501222",
+            "street": "Rua Marquês de Olinda",
+            "number": "470",
+            "details": "Casa",
+            "district": "Catalão",
+            "city_state": "Divinópolis/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Zezinho Pereira",
+        "cpf": "00000000051",
+        "email": "hudson.com.br",
+        "whatsapp": "37999998811",
+        "address": {
+            "postalcode": "35501222",
+            "street": "Rua Marquês de Olinda",
+            "number": "470",
+            "details": "Casa",
+            "district": "Catalão",
+            "city_state": "Divinópolis/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
